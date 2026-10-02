@@ -1,5 +1,3 @@
-
-
 # 🛒 Customer Support AI Agent on AWS
 
 > An AI-powered customer support assistant built with **Amazon Bedrock AgentCore** and the **Strands Agents SDK**. It can track orders, process refunds, answer policy questions, calculate loyalty discounts, remember returning customers, and browse the web, all from a single chat message.

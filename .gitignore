@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+# Secrets
+.env
+*.env
+newcreds.txt
+*credentials*
+# Misc
+*.zip
+.DS_Store
+.vscode/
